@@ -17,7 +17,7 @@ Welcome to Survey123 Holistic Testing for version 2.4. Today, we will be testing
 
 The latest version of Survey123 application (2.4.52) and connect (2.4.32) build is required.
 
-To download the latest version of Survey123 field application &amp; connect,  go to the download section of Survey123 on the early adopter community site using the link: [https://earlyadopter.esri.com/project/version/default.html?cap=E69EF91F45744B98882C651F7B518EB7&amp;arttypeid=%7b83EB3229-F375-4D35-A22F-638D9C2B119A%7d](https://earlyadopter.esri.com/project/version/default.html?cap=E69EF91F45744B98882C651F7B518EB7&amp;arttypeid=%7b83EB3229-F375-4D35-A22F-638D9C2B119A%7d)
+To download the latest version of Survey123 field application &amp; connect,  go to the [download section of Survey123 on the early adopter community site](https://earlyadopter.esri.com/project/version/default.html?cap=E69EF91F45744B98882C651F7B518EB7&amp;arttypeid=%7b83EB3229-F375-4D35-A22F-638D9C2B119A%7d)
 
 The Latest IOS version of Survey123 is available for download on TestFlight. Please contact one of the holistic leads if you need help getting connected on TestFlight.
 
