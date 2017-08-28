@@ -31,7 +31,7 @@ Built in security with datastore:
 
 - 4:  [http://dev004003.esri.com/arcgis/home/](http://dev004003.esri.com/arcgis/home/)
 
-# Built in security with datastore &amp; SQL Server Instance for Federated services
+Built in security with datastore &amp; SQL Server Instance for Federated services
 
         To use, follow link and create account.
 
