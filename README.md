@@ -2,10 +2,9 @@ Survey123 Holistic Testing on Version 2.4.
 
 Welcome to Survey123 Holistic Testing for version 2.4. Today, we will be testing several enhanced and new functionalities in Survey123. These functionalities include:
 
-- Editing Improvements
-  - Editing with repeats now supported.
-    - Repeat editing is controlled through a new parameters column.
-    - Submission of null values when a question&#39;s answer is deleted..
+- Editing Improvements: Editing with repeats now supported.
+  - Repeat editing is controlled through a new parameters column.
+  - Submission of null values when a question&#39;s answer is deleted..
 - Audio Question
 
 - Sketch Box/Draw Appearance
