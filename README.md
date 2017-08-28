@@ -1,4 +1,4 @@
-##Survey123 Holistic Testing on Version 2.4.
+## Survey123 Holistic Testing on Version 2.4.
 
 Welcome to Survey123 Holistic Testing for version 2.4. Today, we will be testing several enhanced and new functionalities in Survey123. These functionalities include:
 
@@ -13,7 +13,7 @@ Welcome to Survey123 Holistic Testing for version 2.4. Today, we will be testing
 - Attachment handling improvements.
 - Improved positioning response on Android.
 
-###Requirements for Holistic testing.
+### Requirements for Holistic testing.
 
 The latest version of Survey123 application (2.4.52) and connect (2.4.32) build is required.
 
@@ -21,7 +21,7 @@ To download the latest version of Survey123 field application &amp; connect,  go
 
 The Latest IOS version of Survey123 is available for download on TestFlight. Please contact one of the holistic leads if you need help getting connected on TestFlight.
 
-###Available ArcGIS Enterprise installations
+### Available ArcGIS Enterprise installations
 To test the experience with ArcGIS Enterprise, Esri staff have access to several installations to test workflows
 Internal login:
 - 10.4:  [http://dev004003.esri.com/arcgis/home/](http://dev004003.esri.com/arcgis/home/)
