@@ -23,7 +23,7 @@ The Latest IOS version of Survey123 is available for download on TestFlight. Ple
 
 The Beta Template(2.4) which is now available in Survey123 connect.
 
-### Available ArcGIS Enterprise installations
+### Available ArcGIS Enterprise installations (Esri staff)
 To test the experience with ArcGIS Enterprise, Esri staff have access to several installations to test workflows
 Internal login:
 - 10.4:  [http://dev004003.esri.com/arcgis/home/](http://dev004003.esri.com/arcgis/home/)
@@ -33,5 +33,9 @@ Internal login:
 IWA login:
 - 10.3.1:  [https://dev003895.esri.com/arcgis/home/](https://dev003895.esri.com/arcgis/home/)
 - 10.5:  [https://dev003729.esri.com/arcgis/home/](https://dev003729.esri.com/arcgis/home/)
+
+### Available ArcGIS Enterprise installations (Non-Esri staff)
+
+-10.5.1: https://pm.demo.geocloud.com/arcgis   enterprisepub/Password123!
 
 Please inform one of the holistic leads if you have any questions related to portal access.
