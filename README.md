@@ -21,6 +21,8 @@ To download the latest version of Survey123 field application &amp; connect,  go
 
 The Latest IOS version of Survey123 is available for download on TestFlight. Please contact one of the holistic leads if you need help getting connected on TestFlight.
 
+The Beta Template(2.4) which is now available in Survey123 connect.
+
 ### Available ArcGIS Enterprise installations
 To test the experience with ArcGIS Enterprise, Esri staff have access to several installations to test workflows
 Internal login:
