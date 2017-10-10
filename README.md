@@ -2,7 +2,7 @@
 
 Welcome to Survey123 Holistic Testing for version 2.5. Today, we will be testing several enhanced and new functionalities in Survey123. These functionalities include:
 
-Survey123 Website (use (https://survey123dev.arcgis.com)[https://survey123dev.arcgis.com])
+Survey123 Website (use https://survey123dev.arcgis.com)
 - Data/Analyze Tab Improvements
   - Nested groups/repeats
   - audio question
