@@ -25,7 +25,7 @@ Survey123 App
 
 The latest version of Survey123 application (2.5.16) and connect (2.5.10) build is required.
 
-To download the latest version of Survey123 field application &amp; connect,  go to the [download section of Survey123 on the early adopter community site](https://earlyadopter.esri.com/project/version/default.html?cap=E69EF91F45744B98882C651F7B518EB7&amp;arttypeid=%7b83EB3229-F375-4D35-A22F-638D9C2B119A%7d)
+To download the latest version of Survey123 field application &amp; connect,  go to the [download section of Survey123 on the early adopter community site](https://earlyadopter.esri.com/project/version/default.html?cap=E69EF91F45744B98882C651F7B518EB7&amp;arttypeid=%7b83EB3229-F375-4D35-A22F-638D9C2B119A%7d) or via Box https://esri.box.com/v/Survey123Holistic
 
 The Latest iOS version of Survey123 is available for download on TestFlight. Please contact one of the holistic leads if you need help getting connected on TestFlight.
 
