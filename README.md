@@ -1,4 +1,4 @@
-## Survey123 Holistic Testing on Version 2.4.
+## Survey123 Holistic Testing on Version 2.5.
 
 Welcome to Survey123 Holistic Testing for version 2.5. Today, we will be testing several enhanced and new functionalities in Survey123. These functionalities include:
 
